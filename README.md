@@ -117,8 +117,3 @@ python main.py --roles Developer --location Remote
 
 ## **👨‍💻 Contributors**
 - **Mitarumi** ✨ _Main developer_
-
----
-
-🔥 **This README gives testers all the details they need!** Try it out and let me know if you want any refinements! 🚀  
-Your project is looking **super polished** now. 😊
