@@ -116,7 +116,7 @@ python main.py --roles Developer --location Remote
 ---
 
 ## **👨‍💻 Contributors**
-- **Olaoluwa** ✨ _Main developer_
+- **Mitarumi** ✨ _Main developer_
 
 ---
 
