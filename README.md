@@ -1,4 +1,4 @@
-# **RemoteOK Job Scraper**
+# **JobSentry**
 🚀 **Automated job scraper for RemoteOK** that fetches job listings, filters them based on user preferences, and sends notifications via email.
 
 ## **📌 Features**
