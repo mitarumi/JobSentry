@@ -4,7 +4,8 @@
 ## **📌 Features**
 ✅ **Automated job fetching** using Selenium  
 ✅ **Filter jobs based on roles, location, and salary** via CLI or JSON  
-✅ **Saves job listings in structured JSON files**  
+✅ **Saves job listings in structured JSON files** 
+✅ **Sends detailed emails with information on jobs matching filters including link to apply**
 ✅ **Runs daily via scheduling**  
 
 ---
